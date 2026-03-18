@@ -475,7 +475,7 @@ Local Interpretable Model-agnostic Explanations — approximate the neural netwo
 ║ Neural Network (MLP) ║  0.9712  ║       —      ║     —      ║
 ║ Hybrid (Meta-Ridge)  ║  0.8972  ║       —      ║     —      ║
 ╠══════════════════════╬══════════╬══════════════╬════════════╣
-║  Best Overall      ║  Hybrid  ║  0.8972 RMSE ║            ║
+║  Best Overall        ║  Hybrid  ║  0.8972 RMSE ║            ║
 ╚══════════════════════╩══════════╩══════════════╩════════════╝
 ```
 
